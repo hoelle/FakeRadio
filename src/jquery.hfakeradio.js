@@ -21,7 +21,8 @@
 						opacity: 0,
 						cursor: 'pointer',
 						border: 0,
-						outline: 0
+						outline: 0,
+						behavior: 'none'
 					};
 
 				return this.each(function () {
